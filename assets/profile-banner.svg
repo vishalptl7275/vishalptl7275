@@ -1,40 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Vishal Patel — Software Developer</title>
-<desc id="desc">A dark navy technical portfolio banner with a subtle grid, abstract connected nodes, and developer identity.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">PEGASUS — Vishal Patel</title>
+<desc id="desc">An animated midnight-blue developer banner with glowing network lines, floating particles, and Pegasus identity.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#080d1b"/>
-    <stop offset=".55" stop-color="#101d35"/>
-    <stop offset="1" stop-color="#073b55"/>
-  </linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#38bdf8" stop-opacity=".05"/>
-    <stop offset="1" stop-color="#60a5fa" stop-opacity=".4"/>
-  </linearGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-    <path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".08" stroke-width="1"/>
-  </pattern>
-  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b18"/><stop offset=".55" stop-color="#111d36"/><stop offset="1" stop-color="#073b55"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#93c5fd" stroke-opacity=".07"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-<path d="M700 0L1200 0 1200 360 900 360Z" fill="#0b1930" opacity=".42"/>
-<g fill="none" stroke="url(#line)" stroke-width="2">
-  <path d="M790 90L930 145L1080 75L1150 170L1010 260L860 230L790 90"/>
-  <path d="M930 145L1010 260M1080 75L1010 260M860 230L930 145"/>
-  <path d="M790 90L860 230M1080 75L1150 170"/>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<path d="M720 0L1200 0 1200 380 900 380Z" fill="#0b1930" opacity=".38"/>
+<!-- animated network -->
+<g fill="none" stroke="url(#neon)" stroke-width="2" opacity=".75">
+ <path d="M760 90L930 145L1080 70L1150 180L1010 285L850 240L760 90">
+  <animate attributeName="stroke-dasharray" values="2 18;22 8;2 18" dur="7s" repeatCount="indefinite"/>
+ </path>
+ <path d="M930 145L1010 285M1080 70L1010 285M850 240L930 145"/>
 </g>
-<g fill="#38bdf8" filter="url(#glow)">
-  <circle cx="790" cy="90" r="5"/><circle cx="930" cy="145" r="6"/>
-  <circle cx="1080" cy="75" r="5"/><circle cx="1150" cy="170" r="5"/>
-  <circle cx="1010" cy="260" r="6"/><circle cx="860" cy="230" r="5"/>
+<g fill="#67e8f9" filter="url(#glow)">
+ <circle cx="760" cy="90" r="5"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/></circle>
+ <circle cx="930" cy="145" r="6"><animate attributeName="opacity" values=".4;1;.4" dur="1.6s" repeatCount="indefinite"/></circle>
+ <circle cx="1080" cy="70" r="5"><animate attributeName="r" values="3;7;3" dur="2.3s" repeatCount="indefinite"/></circle>
+ <circle cx="1150" cy="180" r="5"/><circle cx="1010" cy="285" r="6"/><circle cx="850" cy="240" r="5"/>
+</g>
+<!-- floating particles -->
+<g fill="#c4b5fd">
+ <circle cx="720" cy="300" r="3"><animate attributeName="cy" values="300;270;300" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="1120" cy="45" r="2"><animate attributeName="cy" values="45;65;45" dur="3s" repeatCount="indefinite"/></circle>
+ <circle cx="680" cy="165" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
 </g>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-  <text x="82" y="105" fill="#7dd3fc" font-size="16" letter-spacing="4">DEVELOPER PORTFOLIO / 2026</text>
-  <text x="78" y="177" fill="#f8fafc" font-size="58" font-weight="700" letter-spacing="-2">VISHAL PATEL</text>
-  <rect x="82" y="205" width="54" height="4" rx="2" fill="#38bdf8"/>
-  <text x="82" y="250" fill="#cbd5e1" font-size="21">Java  /  Backend Engineering  /  Problem Solving</text>
-  <text x="82" y="300" fill="#64748b" font-size="14" letter-spacing="2">LEARN  ·  BUILD  ·  IMPROVE</text>
-  <text x="820" y="315" fill="#7dd3fc" font-size="13" letter-spacing="2">SYSTEMS THINKING</text>
+ <text x="78" y="82" fill="#7dd3fc" font-size="15" letter-spacing="5">DEVELOPER PORTFOLIO / 2026</text>
+ <text x="74" y="158" fill="#f8fafc" font-size="58" font-weight="700" letter-spacing="-2">VISHAL PATEL</text>
+ <rect x="80" y="184" width="58" height="4" rx="2" fill="url(#neon)"/>
+ <text x="80" y="230" fill="#cbd5e1" font-size="20">JAVA  /  BACKEND  /  PROBLEM SOLVING</text>
+ <text x="80" y="290" fill="#a5b4fc" font-size="24" font-weight="700" letter-spacing="7">PEGASUS</text>
+ <text x="80" y="320" fill="#64748b" font-size="12" letter-spacing="3">LEARN  ·  BUILD  ·  LEVEL UP</text>
+</g>
+<!-- mascot accent -->
+<g transform="translate(1000 105) scale(.56)">
+ <path d="M0 80Q-55 20 -35 -45Q5 -10 14 13Q40 -50 75 -62Q72 -12 45 28Q100 0 125 18Q95 65 45 92Z" fill="#bae6fd" opacity=".9">
+  <animateTransform attributeName="transform" type="rotate" values="0 35 45;-12 35 45;0 35 45;10 35 45;0 35 45" dur="1.4s" repeatCount="indefinite"/>
+ </path>
+ <path d="M-8 85Q20 50 48 48Q78 42 98 65L125 90L105 110L65 105L35 135L0 125L-22 98Z" fill="#7dd3fc" stroke="#e0f2fe" stroke-width="3"/>
+ <path d="M90 64L112 20L123 66Z" fill="#fde68a"/>
+ <circle cx="91" cy="78" r="5" fill="#172554"/>
+ <path d="M-12 84Q-45 65 -58 34Q-54 82 -27 110" fill="none" stroke="#c4b5fd" stroke-width="12" stroke-linecap="round"/>
 </g>
 </svg>
