@@ -1,13 +1,20 @@
 <!--
-  Vishal Patel | GitHub Profile
-  Original layout inspired by common developer-portfolio README patterns.
+  Vishal Patel | PEGASUS
+  Midnight cyber aesthetic + original animated mascot.
 -->
 
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Vishal Patel — Java, backend engineering and problem solving" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Vishal Patel — Pegasus developer portfolio" />
 
 <br/>
+
+### ⚡ PEGASUS
+**Vishal Patel · Aspiring Software Developer**
+
+*Java • Backend Engineering • Problem Solving*
+
+<img src="./assets/pegasus-mascot.svg" width="220" alt="Pegasus — my little coding mascot" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalptl8)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishalpatel7275/)
@@ -17,7 +24,7 @@
 
 ---
 
-## 01 — Profile
+## 01 — The Developer
 
 B.Tech student at **Galgotias University**, focused on software development, Java, and backend engineering. I enjoy building practical applications, understanding how systems work, and improving my problem-solving skills through consistent practice.
 
@@ -26,7 +33,7 @@ B.Tech student at **Galgotias University**, focused on software development, Jav
 - **Currently exploring:** Spring Boot, REST APIs, Python and data analytics
 - **Build philosophy:** Understand the fundamentals, write maintainable code, and improve through iteration
 
-## 02 — Technology
+## 02 — Tech Arsenal
 
 <div align="center">
 
@@ -52,44 +59,46 @@ B.Tech student at **Galgotias University**, focused on software development, Jav
 
 </div>
 
-## 03 — Selected Projects
+## 03 — Selected Builds
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Bank Management System</h3>
+      <h3>🏦 Bank Management System</h3>
       <p>Java web application built to explore banking workflows, server-side programming, and relational database integration.</p>
-      <p><strong>Technology:</strong><br/>Java · JDBC · MySQL · Servlets · Maven</p>
+      <p><strong>Stack:</strong><br/>Java · JDBC · MySQL · Servlets · Maven</p>
       <a href="https://github.com/vishalptl7275/Bankmanagement_System"><strong>Explore repository →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Amazon & Flipkart Price Drop Alert</h3>
-      <p>Telegram bot project that monitors product prices and sends a notification when a target price is reached.</p>
-      <p><strong>Technology:</strong><br/>Node.js · Telegraf · MongoDB · Axios · Cheerio</p>
+      <h3>🔔 Price Drop Alert</h3>
+      <p>Telegram bot project that monitors Amazon and Flipkart product prices and sends a notification when a target price is reached.</p>
+      <p><strong>Stack:</strong><br/>Node.js · Telegraf · MongoDB · Axios · Cheerio</p>
       <a href="https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert"><strong>Explore repository →</strong></a>
     </td>
   </tr>
 </table>
 
-## 04 — Current Learning
+## 04 — Currently Leveling Up
 
-| Focus area | What I'm working on |
+| Focus area | Current direction |
 |---|---|
 | **Java & DSA** | Core Java, problem-solving patterns, data structures and algorithms |
 | **Backend** | Spring Boot, REST APIs, database integration |
 | **Python** | Programming fundamentals and data analysis |
 | **Engineering** | Project structure, debugging, Git and clean code |
 
-## 05 — Find Me
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishalptl8-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalptl8)
-[![LeetCode](https://img.shields.io/badge/LeetCode-vishalpatel7275-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishalpatel7275/)
-[![GitHub](https://img.shields.io/badge/GitHub-vishalptl7275-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishalptl7275)
+### 🪽 STAY CURIOUS. BUILD BOLDLY.
+
+**PEGASUS MODE: ON**
+
+<sub>Building fundamentals. Shipping projects. Getting better every day.</sub>
 
 <br/>
 
-<sub>Building fundamentals. Shipping projects. Getting better every day.</sub>
+[LinkedIn](https://linkedin.com/in/vishalptl8) · [LeetCode](https://leetcode.com/u/vishalpatel7275/) · [GitHub](https://github.com/vishalptl7275)
 
 </div>
