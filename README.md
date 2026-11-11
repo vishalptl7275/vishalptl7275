@@ -60,7 +60,7 @@ B.Tech student at **Galgotias University**, focused on software development, Jav
 
 | Project | Description | Links |
 |---|---|---|
-| **Bank Management System** | Java 17, Servlets, JDBC and MySQL banking workflow demo. Requires a Java server and database. | [Source code](https://github.com/vishalptl7275/Bankmanagement_System) |
+| **Bank Management System** | Java 17 banking workflow demo with Servlets, JDBC, MySQL and Docker Compose setup. | [Source code](https://github.com/vishalptl7275/Bankmanagement_System) |
 | **Amazon & Flipkart Price Drop Alert** | Node.js Telegram bot prototype with MongoDB and scheduled price checks. Requires a running worker and credentials. | [Source code](https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert) |
 | **Spotify-inspired Music App** | Full-stack music UI with authentication, playlists and liked songs, backed by Express and MySQL. Includes Docker setup. | [Source code](https://github.com/vishalptl7275/spotify_clone) |
 | **Java Practice Projects** | Small Java console applications and learning exercises. | [Repository](https://github.com/vishalptl7275/internship) |
