@@ -1,75 +1,90 @@
-<!-- PEGASUS | Vishal Patel's GitHub profile -->
+<!-- Vishal Patel | PEGASUS -->
 
 <div align="center">
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Vishal Patel — Pegasus developer portfolio" />
 
+<br/>
+
 ### ⚡ PEGASUS
-**Vishal Patel · B.Tech Student | Aspiring Software Developer**
+**Vishal Patel · Aspiring Software Developer**
 
-Java · Backend Development · Problem Solving
+*Java • Backend Engineering • Problem Solving*
 
-<img src="./assets/pegasus-mascot.svg" width="180" alt="Pegasus coding mascot" />
+<img src="./assets/pegasus-mascot.svg" width="200" alt="Pegasus — animated coding mascot" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishalptl7275.github.io/vishalptl7275/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalptl8)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishalpatel7275/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishalpatel7275/)
 
 </div>
 
 ---
 
-## About
+## 01 — The Developer
 
-I'm a B.Tech student at **Galgotias University** interested in building useful software and understanding how applications work end to end. My main focus is **Java and backend development**, while I continue strengthening my problem-solving and programming fundamentals.
+B.Tech student at **Galgotias University**, focused on software development, Java, and backend engineering. I enjoy building practical applications, understanding how systems work, and improving my problem-solving skills through consistent practice.
 
-- **Focus:** Java, backend development and Data Structures & Algorithms
-- **Learning:** Spring Boot, REST APIs and Python
-- **Interested in:** Software engineering and practical, real-world projects
+- **Primary focus:** Java development and backend fundamentals
+- **Problem solving:** Data Structures & Algorithms
+- **Currently exploring:** Spring Boot, REST APIs, Python and data analytics
+- **Build philosophy:** Understand the fundamentals, write maintainable code, and improve through iteration
 
-## Tech Stack
+## 02 — Tech Arsenal
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**LANGUAGES**
 
-**Backend & Databases**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![JDBC](https://img.shields.io/badge/JDBC-315B78?style=flat-square)
-![Servlets](https://img.shields.io/badge/Java_Servlets-5382A1?style=flat-square&logo=apachetomcat&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**BACKEND & DATA**
 
-**Web & Tools**
+![JDBC](https://img.shields.io/badge/JDBC-315B78?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Servlets](https://img.shields.io/badge/Java_Servlets-5382A1?style=for-the-badge&logo=apachetomcat&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+**WEB & TOOLS**
 
-## Featured Projects
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-| Project | What it does | Stack |
+</div>
+
+## 03 — Projects & Repositories
+
+| Project | Description | Links |
 |---|---|---|
-| [Bank Management System](https://github.com/vishalptl7275/Bankmanagement_System) | A banking workflow demo with account and transaction features. | Java 17, Servlets, JDBC, MySQL |
-| [Price Drop Alert Bot](https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert) | Tracks product prices and sends Telegram alerts when prices drop. | Node.js, MongoDB, Telegram |
-| [Spotify Clone](https://github.com/vishalptl7275/spotify_clone) | Front-end clone project; repository currently contains an archive. | Web technologies |
+| **Bank Management System** | Java 17, Servlets, JDBC and MySQL banking workflow demo. Requires a Java server and database. | [Source code](https://github.com/vishalptl7275/Bankmanagement_System) |
+| **Amazon & Flipkart Price Drop Alert** | Node.js Telegram bot prototype with MongoDB and scheduled price checks. Requires a running worker and credentials. | [Source code](https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert) |
+| **Spotify Clone** | Web clone project currently stored as a ZIP archive; source needs extracting and review before deployment. | [Source code](https://github.com/vishalptl7275/spotify_clone) |
+| **Java Practice Projects** | Small Java console applications and learning exercises. | [Repository](https://github.com/vishalptl7275/internship) |
 
-## Currently Learning
+## 04 — Currently Leveling Up
 
-- Strengthening Java and DSA fundamentals
-- Building backend applications with Spring Boot and REST APIs
-- Improving Python and data-analysis skills
+| Focus area | Current direction |
+|---|---|
+| **Java & DSA** | Core Java, problem-solving patterns, data structures and algorithms |
+| **Backend** | Spring Boot, REST APIs, database integration |
+| **Python** | Programming fundamentals and data analysis |
+| **Engineering** | Project structure, debugging, Git and clean code |
 
 ---
 
 <div align="center">
 
-**🪽 STAY CURIOUS. BUILD BOLDLY.**
+### 🪽 STAY CURIOUS. BUILD BOLDLY.
 
-*PEGASUS MODE: ON*
+**PEGASUS MODE: ON**
+
+<sub>Building fundamentals. Shipping projects. Getting better every day.</sub>
+
+<br/>
 
 [Portfolio](https://vishalptl7275.github.io/vishalptl7275/) · [LinkedIn](https://linkedin.com/in/vishalptl8) · [LeetCode](https://leetcode.com/u/vishalpatel7275/) · [GitHub](https://github.com/vishalptl7275)
 
