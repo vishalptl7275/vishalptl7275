@@ -1,7 +1,4 @@
-<!--
-  Vishal Patel | PEGASUS
-  Midnight cyber aesthetic + original animated mascot.
--->
+<!-- Vishal Patel | PEGASUS -->
 
 <div align="center">
 
@@ -14,11 +11,11 @@
 
 *Java • Backend Engineering • Problem Solving*
 
-<img src="./assets/pegasus-mascot.svg" width="220" alt="Pegasus — my little coding mascot" />
+<img src="./assets/pegasus-mascot.svg" width="200" alt="Pegasus — animated coding mascot" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalptl8)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishalpatel7275/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishalptl7275)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vishalptl7275.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalptl8)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishalpatel7275/)
 
 </div>
 
@@ -59,24 +56,14 @@ B.Tech student at **Galgotias University**, focused on software development, Jav
 
 </div>
 
-## 03 — Selected Builds
+## 03 — Projects & Repositories
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 Bank Management System</h3>
-      <p>Java web application built to explore banking workflows, server-side programming, and relational database integration.</p>
-      <p><strong>Stack:</strong><br/>Java · JDBC · MySQL · Servlets · Maven</p>
-      <a href="https://github.com/vishalptl7275/Bankmanagement_System"><strong>Explore repository →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔔 Price Drop Alert</h3>
-      <p>Telegram bot project that monitors Amazon and Flipkart product prices and sends a notification when a target price is reached.</p>
-      <p><strong>Stack:</strong><br/>Node.js · Telegraf · MongoDB · Axios · Cheerio</p>
-      <a href="https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert"><strong>Explore repository →</strong></a>
-    </td>
-  </tr>
-</table>
+| Project | Description | Links |
+|---|---|---|
+| **Bank Management System** | Java 17, Servlets, JDBC and MySQL banking workflow demo. Requires a Java server and database. | [Source code](https://github.com/vishalptl7275/Bankmanagement_System) |
+| **Amazon & Flipkart Price Drop Alert** | Node.js Telegram bot prototype with MongoDB and scheduled price checks. Requires a running worker and credentials. | [Source code](https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert) |
+| **Spotify Clone** | ZIP archive currently stored in the repository; source needs extracting and reviewing before deployment. | [Repository](https://github.com/vishalptl7275/spotify_clone) |
+| **Java Practice Projects** | Small Java learning programs. This repository is private. | [Private repository](https://github.com/vishalptl7275/internship) |
 
 ## 04 — Currently Leveling Up
 
@@ -99,6 +86,6 @@ B.Tech student at **Galgotias University**, focused on software development, Jav
 
 <br/>
 
-[LinkedIn](https://linkedin.com/in/vishalptl8) · [LeetCode](https://leetcode.com/u/vishalpatel7275/) · [GitHub](https://github.com/vishalptl7275)
+[Portfolio](https://vishalptl7275.github.io) · [LinkedIn](https://linkedin.com/in/vishalptl8) · [LeetCode](https://leetcode.com/u/vishalpatel7275/) · [GitHub](https://github.com/vishalptl7275)
 
 </div>
