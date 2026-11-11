@@ -1,113 +1,107 @@
-<!--
-  GitHub Profile README
-  Theme: Midnight / Electric Blue
--->
+<!-- GitHub Profile README | Midnight Blue Theme -->
 
 <div align="center">
 
-<a href="https://github.com/vishalptl7275">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B16,45:111C35,100:075985&text=VISHAL%20PATEL&fontColor=EAF2FF&fontSize=52&fontAlignY=38&desc=BUILDING%20SOFTWARE.%20SOLVING%20PROBLEMS.&descSize=15&descAlignY=59&descColor=9CCBFF&animation=fadeIn" width="100%" alt="Vishal Patel — software developer" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B16,50:14213D,100:075985&text=VISHAL%20PATEL&fontColor=F8FAFC&fontSize=48&fontAlignY=40&desc=SOFTWARE%20DEVELOPMENT%20%7C%20JAVA%20%7C%20BACKEND&descSize=14&descAlignY=62&descColor=BFDBFE" width="100%" alt="Vishal Patel profile banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Java+%7C+Backend+Development;Learning+by+Building+Real+Projects" alt="Typing introduction" />
-</a>
+### Aspiring Software Developer
 
-<br/>
+**Java • Backend Development • Data Structures & Algorithms**
 
-<a href="https://linkedin.com/in/vishalptl8"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/vishalpatel7275/"><img src="https://img.shields.io/badge/LEETCODE-0B1220?style=for-the-badge&logo=leetcode&logoColor=FBBF24" alt="LeetCode" /></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/OPEN_TO_LEARNING-0B1220?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Open to learning" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalptl8)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vishalpatel7275/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalptl7275)
 
 </div>
 
 ---
 
-## `01 / ABOUT`
+##  About Me
 
-I'm a **B.Tech student at Galgotias University** working towards becoming a software developer. My current focus is Java, backend development, and problem-solving. I learn best by building projects, understanding how things work, and improving them step by step.
+I'm a **B.Tech student at Galgotias University** focused on software development and backend engineering. I enjoy building practical projects, strengthening my Java fundamentals, and improving my problem-solving skills.
 
-- **Primary language:** Java
-- **Focus:** Backend development and Data Structures & Algorithms
-- **Exploring:** Spring Boot, REST APIs, Python, and data analytics
-- **Approach:** Learn the fundamentals, build, test, and iterate
+- 💻 Primary language: **Java**
+- 🧩 Practising **Data Structures & Algorithms**
+- 🌱 Learning **Spring Boot, REST APIs, Python and data analytics**
+- 🛠️ Interested in building clean, maintainable software
 
-## `02 / TECH STACK`
+## Technical Skills
 
 <div align="center">
 
-**LANGUAGES**
+**PROGRAMMING LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" alt="Java, Python, JavaScript" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **BACKEND & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,maven&theme=dark" alt="MySQL, MongoDB, Maven" />
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white)
+![Java Servlets](https://img.shields.io/badge/Java_Servlets-5382A1?style=for-the-badge&logo=apachetomcat&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **WEB & DEVELOPMENT TOOLS**
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" alt="HTML, CSS, Git, GitHub, VS Code" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </div>
 
-## `03 / FEATURED WORK`
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vishalptl7275/Bankmanagement_System">Bank Management System</a></h3>
-      <p>A Java web application exploring banking workflows, server-side programming, and relational database integration.</p>
-      <p><strong>Built with</strong></p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-172033?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-        <img src="https://img.shields.io/badge/JDBC-172033?style=flat-square" />
-        <img src="https://img.shields.io/badge/MySQL-172033?style=flat-square&logo=mysql&logoColor=4479A1" />
-        <img src="https://img.shields.io/badge/Servlets-172033?style=flat-square" />
-      </p>
-      <a href="https://github.com/vishalptl7275/Bankmanagement_System">VIEW REPOSITORY →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert">Amazon & Flipkart Price Drop Alert</a></h3>
-      <p>A Telegram bot project that checks product prices and sends an alert when a target price is reached.</p>
-      <p><strong>Built with</strong></p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-172033?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
-        <img src="https://img.shields.io/badge/MongoDB-172033?style=flat-square&logo=mongodb&logoColor=47A248" />
-        <img src="https://img.shields.io/badge/Telegraf-172033?style=flat-square" />
-      </p>
-      <a href="https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert">VIEW REPOSITORY →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Bank Management System](https://github.com/vishalptl7275/Bankmanagement_System)
+
+A Java web application exploring banking workflows, backend programming, and relational database integration.
+
+**Stack:** Java · JDBC · MySQL · Servlets · Maven
+
+[View repository →](https://github.com/vishalptl7275/Bankmanagement_System)
+
+</td>
+<td width="50%" valign="top">
+
+### [Amazon & Flipkart Price Drop Alert](https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert)
+
+A Telegram bot that monitors product prices and sends notifications when a target price is reached.
+
+**Stack:** Node.js · Telegraf · MongoDB · Axios · Cheerio
+
+[View repository →](https://github.com/vishalptl7275/Amazon-Flipkart-Price-Drop-Alert)
+
+</td>
+</tr>
 </table>
 
-## `04 / GITHUB ACTIVITY`
+## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalptl7275&show_icons=true&hide_border=true&bg_color=080B16&title_color=60A5FA&icon_color=38BDF8&text_color=C9D5E8&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalptl7275&layout=compact&hide_border=true&bg_color=080B16&title_color=60A5FA&text_color=C9D5E8" alt="Most used languages" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalptl7275&hide_border=true&background=080B16&ring=38BDF8&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D5E8&dates=94A3B8&currStreakNum=EAF2FF&sideNums=EAF2FF" alt="GitHub contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishalptl7275&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalptl7275&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
 
-## `05 / WHAT I'M WORKING ON`
+## Current Focus
 
-- Improving problem-solving skills through Java and DSA practice
+- Strengthening DSA and problem-solving with Java
 - Learning Spring Boot and REST API development
-- Strengthening Python and data analytics fundamentals
-- Building projects with better architecture and code quality
+- Improving Python and data analytics fundamentals
+- Building projects with better structure and code quality
 
 ---
 
 <div align="center">
 
-### LET'S CONNECT
+**Consistency over shortcuts. Progress through practice.**
 
-<a href="https://linkedin.com/in/vishalptl8">LinkedIn</a> ·
-<a href="https://leetcode.com/u/vishalpatel7275/">LeetCode</a> ·
-<a href="https://github.com/vishalptl7275">GitHub</a>
-
-<sub>Consistency over shortcuts. Progress through practice.</sub>
+[LinkedIn](https://linkedin.com/in/vishalptl8) · [LeetCode](https://leetcode.com/u/vishalpatel7275/) · [GitHub](https://github.com/vishalptl7275)
 
 </div>
