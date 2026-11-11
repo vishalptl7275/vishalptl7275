@@ -1,4 +1,5 @@
 name: Deploy Pegasus Portfolio to GitHub Pages
+# Deploy the static portfolio directly with GitHub Pages.
 
 on:
   push:
